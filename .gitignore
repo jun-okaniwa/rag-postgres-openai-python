@@ -154,10 +154,7 @@ test-results/
 test_venv*/
 
 # Local learning notes
-LEARNING_NOTES.md
-SETUP_PLAN.md
-TROUBLESHOOTING_GUIDE.md
 
 # pip-tools cache
 .piptools-cache/
-Lang_Plan.md
+

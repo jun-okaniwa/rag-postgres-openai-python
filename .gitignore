@@ -152,3 +152,8 @@ test-results/
 
 # Test virtual environments
 test_venv*/
+
+# Local learning notes
+LEARNING_NOTES.md
+SETUP_PLAN.md
+TROUBLESHOOTING_GUIDE.md

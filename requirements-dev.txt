@@ -5,6 +5,8 @@ types-requests
 pre-commit
 pip-tools
 pip-compile-cross-platform
+langchain-core==1.2.7
+langchain-openai==1.1.7
 playwright
 pytest
 pytest-asyncio
